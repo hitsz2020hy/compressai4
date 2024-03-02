@@ -1,0 +1,13 @@
+{
+    "root_path": "/home/hy/work_space",
+    "test_classes": {
+        "Kodak": {
+            "test": 1,
+            "base_path": "dataset",
+            "src_type": "png",
+            "sequences": {
+                "Kodak":       {"width": 1920, "height": 1080, "frames": 24, "gop": 1}
+            }
+        }
+    }
+}
